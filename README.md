@@ -1,2 +1,2 @@
-# nu-compiler
-Northwestern Compiler class using Racket.
+# Compiler
+A compiler written by Racket.
